@@ -1,7 +1,7 @@
-import brainwave from "./brainwave.svg";
+import talkgenie from "./talkgenie.svg";
 import check from "./check.svg";
-import brainwaveSymbol from "./brainwave-symbol.svg";
-import brainwaveWhiteSymbol from "./brainwave-symbol-white.svg";
+import talkgenieSymbol from "./talkgenie-symbol.svg";
+import talkgenieWhiteSymbol from "./talkgenie-symbol-white.svg";
 import play from "./play.svg";
 import gradient from "./gradient.png";
 import smallSphere from "./4-small.png";
@@ -60,13 +60,9 @@ import notification4 from "./notification/image-4.png";
 import benefitCard1 from "./benefits/card-1.svg";
 import benefitCard2 from "./benefits/card-2.svg";
 import benefitCard3 from "./benefits/card-3.svg";
-import benefitCard4 from "./benefits/card-4.svg";
-import benefitCard5 from "./benefits/card-5.svg";
-import benefitCard6 from "./benefits/card-6.svg";
 import benefitIcon1 from "./benefits/icon-1.svg";
 import benefitIcon2 from "./benefits/icon-2.svg";
 import benefitIcon3 from "./benefits/icon-3.svg";
-import benefitIcon4 from "./benefits/icon-4.svg";
 import benefitImage2 from "./benefits/image-2.png";
 
 import discordBlack from "./socials/discord.svg";
@@ -76,12 +72,12 @@ import telegram from "./socials/telegram.svg";
 import twitter from "./socials/twitter.svg";
 
 export {
-  brainwave,
+  talkgenie,
   check,
   check2,
   loading1,
-  brainwaveSymbol,
-  brainwaveWhiteSymbol,
+  talkgenieSymbol,
+  talkgenieWhiteSymbol,
   play,
   gradient,
   smallSphere,
@@ -131,13 +127,9 @@ export {
   benefitCard1,
   benefitCard2,
   benefitCard3,
-  benefitCard4,
-  benefitCard5,
-  benefitCard6,
   benefitIcon1,
   benefitIcon2,
   benefitIcon3,
-  benefitIcon4,
   benefitImage2,
   discordBlack,
   facebook,
